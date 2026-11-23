@@ -4,6 +4,7 @@
   "description": "Northline Overseas study abroad and student visa landing page",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static build ready'",
     "start": "node server.js"
   },
   "keywords": [],
