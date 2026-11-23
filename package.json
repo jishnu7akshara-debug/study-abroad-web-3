@@ -1,0 +1,12 @@
+{
+  "name": "study-abroad-web1",
+  "version": "1.0.0",
+  "description": "Northline Overseas study abroad and student visa landing page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
