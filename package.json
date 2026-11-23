@@ -1,10 +1,10 @@
 {
-  "name": "study-abroad-web1",
+  "name": "study-abroad-web-3",
   "version": "1.0.0",
   "description": "Northline Overseas study abroad and student visa landing page",
   "main": "server.js",
   "scripts": {
-    "build": "echo 'Static build ready'",
+    "build": "node build.js",
     "start": "node server.js"
   },
   "keywords": [],
